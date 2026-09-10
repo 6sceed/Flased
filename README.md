@@ -52,4 +52,10 @@ python -m PyInstaller FLASED.spec
 The executable will be created in `dist/FLASED.exe`.
 
 ## Images
-<img width="1920" height="965" alt="Image" src="https://github.com/6sceed/Flased/blob/main/flased/build/FLASED/images/7.png?raw=true" />
+![Dashboard](https://github.com/6sceed/Flased/blob/main/flased/build/FLASED/images/7.png?raw=true)
+
+![Review](https://github.com/6sceed/Flased/blob/main/flased/build/FLASED/images/3.png?raw=true)
+
+![Flashcard Browser](https://github.com/6sceed/Flased/blob/main/flased/build/FLASED/images/4.png?raw=true)
+
+![Completed Session](https://github.com/6sceed/Flased/blob/main/flased/build/FLASED/images/1.png?raw=true)
